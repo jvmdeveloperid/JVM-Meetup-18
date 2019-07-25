@@ -16,6 +16,10 @@ Speaker :
 
 ![JVM Meetup #18 Poster](img/JVM18_landscape.jpg "JVM Meetup #18 Poster")
 
+Photo Session:
+
+![JVM 18 Photo Session](img/jvm18.jpg)
+
 Ayo join JVM User Group di telegram untuk diskusi lebih lanjut.
 
 Join Us : [@JVMUserGroup](https://t.me/JVMUserGroup)
