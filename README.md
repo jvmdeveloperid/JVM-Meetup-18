@@ -11,8 +11,8 @@ Kecamatan Setiabudi, Daerah Khusus Ibukota Jakarta 12920
 
 Speaker :
 
-1. Andry Huzain (Co-Founder & COO TunaiKita) : "Future of Indonesia Fintech : Technologgy & Operation Challenge".
-2. Alex Xandra Alber Sim (Principal RnD Blibli) : "Building Fintech Application in Java: Tips & Tricks".
+1. Andry Huzain (Co-Founder & COO TunaiKita) : ["Future of Indonesia Fintech : Technologgy & Operation Challenge".](https://drive.google.com/open?id=1OUGhlBo_Mje89W6Z8w45hMo6VC_Ef-Ko)
+2. Alex Xandra Alber Sim (Principal RnD Blibli) : ["Building Fintech Application in Java: Tips & Tricks".](https://drive.google.com/open?id=19n084ZF-DtGj87TG6_HYSv2S2wJ4qjV-)
 
 ![JVM Meetup #18 Poster](img/JVM18_landscape.jpg "JVM Meetup #18 Poster")
 
